@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="greeting_default">Good day Captain!!!</string>
+    <string name="where_to">Who\'s the lucky person today?</string>
+    <string name="message">What\'s the message?</string>
+    <string name="sender_email">Include your email address?</string>
+    <string name="send_button">Send</string>
+    <string-array name="greeting_array">
+        <item>Hello</item>
+        <item>Good day</item>
+        <item>What\'s up</item>
+        <item>Hi</item>
+    </string-array>
+    <string-array name="message_array">
+        <item>Have a nice day!!!</item>
+        <item>Hope you\'re still doing great!!!</item>
+        <item>Want to grab some coffee this weekend?</item>
+    </string-array>
+</resources>
